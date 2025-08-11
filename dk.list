@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,monzo.me
 DOMAIN-SUFFIX,myvue.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,princecharlescinema.com
 DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,revolut.com
@@ -57,5 +58,4 @@ DOMAIN-SUFFIX,trading212.com
 DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,xero.com
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,zed.dev
