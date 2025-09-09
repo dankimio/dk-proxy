@@ -37,6 +37,8 @@ DOMAIN-SUFFIX,lightyear.com
 DOMAIN-SUFFIX,linear.app
 DOMAIN-SUFFIX,lloydsbank.co.uk
 DOMAIN-SUFFIX,lloydsbank.com
+DOMAIN-SUFFIX,loadar.com
+DOMAIN-SUFFIX,loadar.dev
 DOMAIN-SUFFIX,monzo.com
 DOMAIN-SUFFIX,monzo.me
 DOMAIN-SUFFIX,myvue.com
@@ -48,6 +50,7 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,revolut.com
 DOMAIN-SUFFIX,revolut.me
 DOMAIN-SUFFIX,rubyweekly.com
+DOMAIN-SUFFIX,signwell.com
 DOMAIN-SUFFIX,starlingbank.co.uk
 DOMAIN-SUFFIX,starlingbank.com
 DOMAIN-SUFFIX,stripe.com
@@ -60,4 +63,3 @@ DOMAIN-SUFFIX,wise.com
 DOMAIN-SUFFIX,xero.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,zed.dev
-DOMAIN-SUFFIX,signwell.com
